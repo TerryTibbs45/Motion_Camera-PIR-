@@ -1,4 +1,4 @@
 # Motion_Camera PIR
- PIR motion sensor with the Raspberry Pi 
- The Raspberry Pi Camera Module v2
- LEDS
+# The Raspberry Pi Camera Module v2
+# PIR motion sensor with the Raspberry Pi 
+# LEDS
